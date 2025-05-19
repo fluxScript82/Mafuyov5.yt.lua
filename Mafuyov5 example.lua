@@ -1,5 +1,5 @@
 -- Load the Mafuyo UI Library
-local Mafuyo = loadstring(game:HttpGet("https://raw.githubusercontent.com/fluxScript82/Mafuyo-Lib-/refs/heads/main/Mafuyo%20source%20v2%20new.lua"))()
+local Mafuyo = loadstring(game:HttpGet("https://raw.githubusercontent.com/fluxScript82/Mafuyov5.yt.lua/refs/heads/main/Mafuyov5%20source.lua"))()
 
 -- Create a key system (optional)
 local success, key = MafuyoLibrary:CreateKeySystem(
